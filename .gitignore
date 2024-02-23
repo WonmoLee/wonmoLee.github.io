@@ -1,6 +1,5 @@
-_site/
 .jekyll-cache/
 .htaccess
 .DS_Store
-_site
 _config.yml
+_site
